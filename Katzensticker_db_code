@@ -2,6 +2,6 @@ CREATE TABLE Katzensticker(
 	StickerId INTEGER PRIMARY KEY AUTOINCREMENT,
 	StickerBild BLOB,
 	Name TEXT UNIQUE,
-	Emotion VARCHAR(20),
-	Aktion VARCHAR(20)
-);
+	Emotion TEXT,
+	Aktion TEXT
+)
