@@ -4,7 +4,7 @@ Beginner project to create a cat sticker database and visualize in a webapp usin
 
 # project description
 
-This is my first learning project ever for managing and displaying a small collection of cat sticker data (24 stickers).  
+This is my first learning project ever for managing and displaying a small collection of cat sticker data (24 png stickers).  
 
 # project goals 
 
